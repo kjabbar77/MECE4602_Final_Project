@@ -1,3 +1,7 @@
+%% Kashaf Jabbar | MECE 4602: Introduction to Robotics | Final Project Simulation
+%% Note: This file requires the Robotics Toolbox for MATLAB by Peter Corke to run. 
+%% The startup file needs to be run once before this file can run
+%%
 clc; clear all; close all;
 
 prompt = {'Plant Pot Height in m (range from 0.1 to 0.7 m): ','Robot Center distance from Pot (range from 0.17 to 0.7 m): '};
